@@ -1,0 +1,30 @@
+---
+title: 'dapr1: Lab test'
+author: '[ENTER EXAM NUMBER]'
+date: "25/11/2019"
+output: html_document
+---
+
+PLEASE RUN THE CODE CHUNK UNDERNEATH THIS TEXT BEFORE YOU START THE QUESTIONS TO LOAD YOUR DATA. DONT EDIT THE CHUNK BELOW.
+
+NOTE: THIS IS JUST AN EXAMPLE OF THE TEST FORMAT. YOU WILL HAVE **5 QUESTIONS** IN THE ACTUAL TEST.
+
+
+```{r}
+#Load the data
+data<-iris
+```
+
+Q1: Provide a summary descriptive statistics for Sepal.Length:
+
+```{r}
+
+```
+
+
+Q2: Visualise Sepal.Width by the type of Species?
+
+```{r}
+```
+
+
